@@ -761,6 +761,29 @@ sys_style_config_install_for_colloid () {
 dconf load / << __EOF__
 
 
+[org/cinnamon/desktop/interface]
+gtk-theme='Colloid-Dark'
+icon-theme='Colloid-Dark'
+cursor-theme='Colloid-dark-cursors'
+cursor-size=24
+
+
+[org/cinnamon/desktop/wm/preferences]
+theme='Colloid-Dark'
+
+
+[org/cinnamon/theme]
+name='Colloid-Dark'
+
+
+__EOF__
+
+
+
+
+dconf load / << __EOF__
+
+
 [org/gnome/desktop/interface]
 color-scheme='prefer-dark'
 gtk-theme='Colloid-Dark'
