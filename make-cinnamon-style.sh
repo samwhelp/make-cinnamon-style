@@ -545,7 +545,7 @@ dconf load / << __EOF__
 
 [org/cinnamon/desktop/interface]
 gtk-theme='Fluent-round-Dark'
-icon-theme='Fluent-round-Dark'
+icon-theme='Fluent-dark'
 cursor-theme='Fluent-dark-cursors'
 cursor-size=24
 
