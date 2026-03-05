@@ -11,8 +11,8 @@
 ##
 ## ## Link
 ##
-## * https://github.com/samwhelp/make-gnome-shell-layout-wincity/blob/main/part/make-cinnamon-style/make-cinnamon-style.sh
-## * https://raw.githubusercontent.com/samwhelp/make-gnome-shell-layout-wincity/refs/heads/main/part/make-cinnamon-style/make-cinnamon-style.sh
+## * ttps://github.com/samwhelp/make-cinnamon-style/blob/main/make-cinnamon-style.sh
+## * https://raw.githubusercontent.com/samwhelp/make-cinnamon-style/refs/heads/main/make-cinnamon-style.sh
 ##
 
 
