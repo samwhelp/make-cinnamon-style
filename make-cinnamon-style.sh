@@ -543,6 +543,29 @@ sys_style_config_install_for_fluent () {
 dconf load / << __EOF__
 
 
+[org/cinnamon/desktop/interface]
+gtk-theme='Fluent-round-Dark'
+icon-theme='Fluent-round-Dark'
+cursor-theme='Fluent-dark-cursors'
+cursor-size=24
+
+
+[org/cinnamon/desktop/wm/preferences]
+theme='Fluent-round-Dark'
+
+
+[org/cinnamon/theme]
+name='Fluent-round-Dark'
+
+
+__EOF__
+
+
+
+
+dconf load / << __EOF__
+
+
 [org/gnome/desktop/interface]
 color-scheme='prefer-dark'
 gtk-theme='Fluent-round-Dark'
