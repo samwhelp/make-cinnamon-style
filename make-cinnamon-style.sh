@@ -2041,6 +2041,29 @@ sys_style_config_install_for_qogir () {
 dconf load / << __EOF__
 
 
+[org/cinnamon/desktop/interface]
+gtk-theme='Qogir-Dark'
+icon-theme='Citrus-red-dark'
+cursor-theme='Vimix-cursors'
+cursor-size=24
+
+
+[org/cinnamon/desktop/wm/preferences]
+theme='Qogir-Dark'
+
+
+[org/cinnamon/theme]
+name='Qogir-Dark'
+
+
+__EOF__
+
+
+
+
+dconf load / << __EOF__
+
+
 [org/gnome/desktop/interface]
 color-scheme='prefer-dark'
 gtk-theme='Qogir-Dark'
