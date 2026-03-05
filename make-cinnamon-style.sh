@@ -1793,6 +1793,29 @@ sys_style_config_install_for_layan () {
 dconf load / << __EOF__
 
 
+[org/cinnamon/desktop/interface]
+gtk-theme='Layan-Dark'
+icon-theme='Citrus-red-dark'
+cursor-theme='Vimix-cursors'
+cursor-size=24
+
+
+[org/cinnamon/desktop/wm/preferences]
+theme='Layan-Dark'
+
+
+[org/cinnamon/theme]
+name='Layan-Dark'
+
+
+__EOF__
+
+
+
+
+dconf load / << __EOF__
+
+
 [org/gnome/desktop/interface]
 color-scheme='prefer-dark'
 gtk-theme='Layan-Dark'
