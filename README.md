@@ -132,8 +132,7 @@ REF_MASTER_STYLE=vimix bash <(curl -L https://raw.githubusercontent.com/samwhelp
 
 | Link | GitHub |
 | ---- | ------ |
-| [Gnome Shell Adjustment](https://samwhelp.github.io/gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/gnome-shell-adjustment) |
-| [gnome-shell-enhance](https://samwhelp.github.io/gnome-shell-enhance/) | [GitHub](https://github.com/samwhelp/gnome-shell-enhance) |
+| [Cinnamon Adjustment](https://samwhelp.github.io/cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/cinnamon-adjustment) |
 
 
 
